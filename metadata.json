@@ -1,0 +1,5 @@
+{
+  "name": "Visualizador 3D de moléculas",
+  "description": "Uma aplicação interativa para visualização de estruturas moleculares em 3D, enriquecida com informações geradas por IA.",
+  "requestFramePermissions": []
+}
